@@ -1,7 +1,7 @@
 # singularity-landing-page
 How to run
 
-live https://mohammadatikurrahman.github.io/singularity-landing-page/
+live https://mohammadatikurrahman.github.io/singularity/
 # npm install bootstrap
 # npm install
 
